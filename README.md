@@ -1,2 +1,2 @@
-# Weather-ay
+# Weather-app
 Weather ☁️ app
